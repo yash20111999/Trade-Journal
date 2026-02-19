@@ -1,4 +1,4 @@
-# Trade Journal – Frontend Assignment
+# Trade Journal – Frontend Assignment (<Demo Link>](https://backstage-pass-seven.vercel.app/))
 
 This project implements the **Trade Journal** as described in the assignment specification.  
 The application allows users to view and manage trades composed of multiple BUY and SELL legs, with clear direction and status visibility.
