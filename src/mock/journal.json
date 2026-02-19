@@ -1,0 +1,4175 @@
+{
+  "journal_id": "journal-2025-05",
+  "trades": [
+    {
+      "trade_id": "trade-1",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-16",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-1-s-0",
+          "price": 314,
+          "quantity": 15,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-1-s-1",
+          "price": 197,
+          "quantity": 29,
+          "date": "2025-05-26"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-2",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-21",
+      "buy": [
+        {
+          "leg_id": "leg-2-b-0",
+          "price": 201,
+          "quantity": 45,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-2-b-1",
+          "price": 231,
+          "quantity": 12,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-2-b-2",
+          "price": 90,
+          "quantity": 4,
+          "date": "2025-05-1"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-2-s-0",
+          "price": 328,
+          "quantity": 23,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-2-s-1",
+          "price": 105,
+          "quantity": 40,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-2-s-2",
+          "price": 11,
+          "quantity": 25,
+          "date": "2025-05-23"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-3",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-1",
+      "buy": [
+        {
+          "leg_id": "leg-3-b-0",
+          "price": 116,
+          "quantity": 47,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-3-b-1",
+          "price": 381,
+          "quantity": 2,
+          "date": "2025-05-21"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-3-s-0",
+          "price": 22,
+          "quantity": 4,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-3-s-1",
+          "price": 14,
+          "quantity": 3,
+          "date": "2025-05-28"
+        },
+        {
+          "leg_id": "leg-3-s-2",
+          "price": 114,
+          "quantity": 28,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-3-s-3",
+          "price": 202,
+          "quantity": 17,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-3-s-4",
+          "price": 23,
+          "quantity": 25,
+          "date": "2025-05-22"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-4",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-2",
+      "buy": [
+        {
+          "leg_id": "leg-4-b-0",
+          "price": 256,
+          "quantity": 8,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-4-b-1",
+          "price": 312,
+          "quantity": 39,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-4-b-2",
+          "price": 75,
+          "quantity": 30,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-4-b-3",
+          "price": 216,
+          "quantity": 41,
+          "date": "2025-05-17"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-4-s-0",
+          "price": 347,
+          "quantity": 14,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-4-s-1",
+          "price": 28,
+          "quantity": 46,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-4-s-2",
+          "price": 277,
+          "quantity": 12,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-4-s-3",
+          "price": 350,
+          "quantity": 3,
+          "date": "2025-05-20"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-5",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-1",
+      "buy": [
+        {
+          "leg_id": "leg-5-b-0",
+          "price": 466,
+          "quantity": 24,
+          "date": "2025-05-4"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-5-s-0",
+          "price": 228,
+          "quantity": 34,
+          "date": "2025-05-28"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-6",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-2",
+      "buy": [
+        {
+          "leg_id": "leg-6-b-0",
+          "price": 274,
+          "quantity": 42,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-6-b-1",
+          "price": 42,
+          "quantity": 35,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-6-b-2",
+          "price": 484,
+          "quantity": 18,
+          "date": "2025-05-22"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-7",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-7",
+      "buy": [
+        {
+          "leg_id": "leg-7-b-0",
+          "price": 231,
+          "quantity": 4,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-7-b-1",
+          "price": 155,
+          "quantity": 27,
+          "date": "2025-05-5"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-8",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-6",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-8-s-0",
+          "price": 113,
+          "quantity": 2,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-8-s-1",
+          "price": 194,
+          "quantity": 10,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-8-s-2",
+          "price": 72,
+          "quantity": 12,
+          "date": "2025-05-9"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-9",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-28",
+      "buy": [
+        {
+          "leg_id": "leg-9-b-0",
+          "price": 222,
+          "quantity": 31,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-9-b-1",
+          "price": 89,
+          "quantity": 36,
+          "date": "2025-05-26"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-9-s-0",
+          "price": 326,
+          "quantity": 6,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-9-s-1",
+          "price": 485,
+          "quantity": 24,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-9-s-2",
+          "price": 139,
+          "quantity": 10,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-9-s-3",
+          "price": 127,
+          "quantity": 29,
+          "date": "2025-05-22"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-10",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-11",
+      "buy": [
+        {
+          "leg_id": "leg-10-b-0",
+          "price": 232,
+          "quantity": 1,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-10-b-1",
+          "price": 218,
+          "quantity": 17,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-10-b-2",
+          "price": 363,
+          "quantity": 42,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-10-b-3",
+          "price": 124,
+          "quantity": 50,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-10-b-4",
+          "price": 177,
+          "quantity": 49,
+          "date": "2025-05-4"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-11",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-19",
+      "buy": [
+        {
+          "leg_id": "leg-11-b-0",
+          "price": 264,
+          "quantity": 1,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-11-b-1",
+          "price": 145,
+          "quantity": 6,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-11-b-2",
+          "price": 81,
+          "quantity": 10,
+          "date": "2025-05-19"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-12",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-12-b-0",
+          "price": 107,
+          "quantity": 50,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-12-b-1",
+          "price": 412,
+          "quantity": 17,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-12-b-2",
+          "price": 164,
+          "quantity": 3,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-12-b-3",
+          "price": 334,
+          "quantity": 7,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-12-b-4",
+          "price": 311,
+          "quantity": 39,
+          "date": "2025-05-12"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-13",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [
+        {
+          "leg_id": "leg-13-b-0",
+          "price": 15,
+          "quantity": 10,
+          "date": "2025-05-8"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-13-s-0",
+          "price": 65,
+          "quantity": 27,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-13-s-1",
+          "price": 375,
+          "quantity": 43,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-13-s-2",
+          "price": 175,
+          "quantity": 35,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-13-s-3",
+          "price": 396,
+          "quantity": 34,
+          "date": "2025-05-27"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-14",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-25",
+      "buy": [
+        {
+          "leg_id": "leg-14-b-0",
+          "price": 461,
+          "quantity": 42,
+          "date": "2025-05-2"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-15",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-21",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-15-s-0",
+          "price": 427,
+          "quantity": 41,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-15-s-1",
+          "price": 157,
+          "quantity": 43,
+          "date": "2025-05-28"
+        },
+        {
+          "leg_id": "leg-15-s-2",
+          "price": 385,
+          "quantity": 21,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-15-s-3",
+          "price": 319,
+          "quantity": 39,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-15-s-4",
+          "price": 129,
+          "quantity": 20,
+          "date": "2025-05-10"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-16",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-24",
+      "buy": [
+        {
+          "leg_id": "leg-16-b-0",
+          "price": 289,
+          "quantity": 42,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-16-b-1",
+          "price": 442,
+          "quantity": 43,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-16-b-2",
+          "price": 492,
+          "quantity": 25,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-16-b-3",
+          "price": 439,
+          "quantity": 28,
+          "date": "2025-05-5"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-16-s-0",
+          "price": 210,
+          "quantity": 12,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-16-s-1",
+          "price": 239,
+          "quantity": 33,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-16-s-2",
+          "price": 23,
+          "quantity": 45,
+          "date": "2025-05-7"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-17",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-9",
+      "buy": [
+        {
+          "leg_id": "leg-17-b-0",
+          "price": 231,
+          "quantity": 2,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-17-b-1",
+          "price": 380,
+          "quantity": 16,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-17-b-2",
+          "price": 415,
+          "quantity": 25,
+          "date": "2025-05-14"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-17-s-0",
+          "price": 115,
+          "quantity": 8,
+          "date": "2025-05-23"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-18",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-5",
+      "buy": [
+        {
+          "leg_id": "leg-18-b-0",
+          "price": 387,
+          "quantity": 8,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-18-b-1",
+          "price": 32,
+          "quantity": 28,
+          "date": "2025-05-7"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-18-s-0",
+          "price": 66,
+          "quantity": 7,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-18-s-1",
+          "price": 177,
+          "quantity": 9,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-18-s-2",
+          "price": 296,
+          "quantity": 4,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-18-s-3",
+          "price": 237,
+          "quantity": 6,
+          "date": "2025-05-18"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-19",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-20",
+      "buy": [
+        {
+          "leg_id": "leg-19-b-0",
+          "price": 195,
+          "quantity": 19,
+          "date": "2025-05-20"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-19-s-0",
+          "price": 167,
+          "quantity": 41,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-19-s-1",
+          "price": 258,
+          "quantity": 23,
+          "date": "2025-05-7"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-20",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-7",
+      "buy": [
+        {
+          "leg_id": "leg-20-b-0",
+          "price": 184,
+          "quantity": 47,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-20-b-1",
+          "price": 30,
+          "quantity": 32,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-20-b-2",
+          "price": 34,
+          "quantity": 29,
+          "date": "2025-05-6"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-20-s-0",
+          "price": 302,
+          "quantity": 34,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-20-s-1",
+          "price": 22,
+          "quantity": 13,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-20-s-2",
+          "price": 492,
+          "quantity": 44,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-20-s-3",
+          "price": 146,
+          "quantity": 10,
+          "date": "2025-05-22"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-21",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-3",
+      "buy": [
+        {
+          "leg_id": "leg-21-b-0",
+          "price": 187,
+          "quantity": 9,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-21-b-1",
+          "price": 118,
+          "quantity": 31,
+          "date": "2025-05-9"
+        },
+        {
+          "leg_id": "leg-21-b-2",
+          "price": 196,
+          "quantity": 17,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-21-b-3",
+          "price": 412,
+          "quantity": 48,
+          "date": "2025-05-3"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-21-s-0",
+          "price": 352,
+          "quantity": 48,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-21-s-1",
+          "price": 389,
+          "quantity": 40,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-21-s-2",
+          "price": 238,
+          "quantity": 22,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-21-s-3",
+          "price": 154,
+          "quantity": 15,
+          "date": "2025-05-22"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-22",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-22-b-0",
+          "price": 378,
+          "quantity": 17,
+          "date": "2025-05-25"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-23",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-17",
+      "buy": [
+        {
+          "leg_id": "leg-23-b-0",
+          "price": 437,
+          "quantity": 22,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-23-b-1",
+          "price": 264,
+          "quantity": 44,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-23-b-2",
+          "price": 209,
+          "quantity": 29,
+          "date": "2025-05-28"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-23-s-0",
+          "price": 193,
+          "quantity": 35,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-23-s-1",
+          "price": 52,
+          "quantity": 41,
+          "date": "2025-05-17"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-24",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-6",
+      "buy": [
+        {
+          "leg_id": "leg-24-b-0",
+          "price": 176,
+          "quantity": 16,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-24-b-1",
+          "price": 233,
+          "quantity": 30,
+          "date": "2025-05-27"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-24-s-0",
+          "price": 175,
+          "quantity": 14,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-24-s-1",
+          "price": 378,
+          "quantity": 20,
+          "date": "2025-05-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-25",
+      "symbol": "BETA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-27",
+      "buy": [
+        {
+          "leg_id": "leg-25-b-0",
+          "price": 456,
+          "quantity": 22,
+          "date": "2025-05-2"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-25-s-0",
+          "price": 379,
+          "quantity": 29,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-25-s-1",
+          "price": 388,
+          "quantity": 37,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-25-s-2",
+          "price": 240,
+          "quantity": 42,
+          "date": "2025-05-27"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-26",
+      "symbol": "ALPHA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-28",
+      "buy": [
+        {
+          "leg_id": "leg-26-b-0",
+          "price": 371,
+          "quantity": 46,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-26-s-0",
+          "price": 169,
+          "quantity": 47,
+          "date": "2025-05-14"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-27",
+      "symbol": "AAA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-28",
+      "buy": [
+        {
+          "leg_id": "leg-27-b-0",
+          "price": 317,
+          "quantity": 37,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-27-b-1",
+          "price": 353,
+          "quantity": 35,
+          "date": "2025-05-13"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-27-s-0",
+          "price": 378,
+          "quantity": 35,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-27-s-1",
+          "price": 460,
+          "quantity": 19,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-27-s-2",
+          "price": 208,
+          "quantity": 32,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-27-s-3",
+          "price": 16,
+          "quantity": 4,
+          "date": "2025-05-8"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-28",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-28-s-0",
+          "price": 67,
+          "quantity": 4,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-28-s-1",
+          "price": 483,
+          "quantity": 39,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-28-s-2",
+          "price": 105,
+          "quantity": 34,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-28-s-3",
+          "price": 486,
+          "quantity": 1,
+          "date": "2025-05-23"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-29",
+      "symbol": "TSLA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-16",
+      "buy": [
+        {
+          "leg_id": "leg-29-b-0",
+          "price": 390,
+          "quantity": 38,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-29-b-1",
+          "price": 103,
+          "quantity": 30,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-29-b-2",
+          "price": 64,
+          "quantity": 9,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-29-b-3",
+          "price": 156,
+          "quantity": 15,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-29-b-4",
+          "price": 318,
+          "quantity": 42,
+          "date": "2025-05-26"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-29-s-0",
+          "price": 56,
+          "quantity": 21,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-29-s-1",
+          "price": 44,
+          "quantity": 45,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-29-s-2",
+          "price": 390,
+          "quantity": 34,
+          "date": "2025-05-5"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-30",
+      "symbol": "ALPHA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-17",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-30-s-0",
+          "price": 101,
+          "quantity": 37,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-30-s-1",
+          "price": 162,
+          "quantity": 20,
+          "date": "2025-05-9"
+        },
+        {
+          "leg_id": "leg-30-s-2",
+          "price": 86,
+          "quantity": 47,
+          "date": "2025-05-16"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-31",
+      "symbol": "MSFT",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-14",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-31-s-0",
+          "price": 457,
+          "quantity": 5,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-31-s-1",
+          "price": 148,
+          "quantity": 30,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-31-s-2",
+          "price": 401,
+          "quantity": 28,
+          "date": "2025-05-6"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-32",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-4",
+      "buy": [
+        {
+          "leg_id": "leg-32-b-0",
+          "price": 34,
+          "quantity": 48,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-32-b-1",
+          "price": 180,
+          "quantity": 32,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-32-b-2",
+          "price": 434,
+          "quantity": 38,
+          "date": "2025-05-3"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-32-s-0",
+          "price": 377,
+          "quantity": 7,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-32-s-1",
+          "price": 140,
+          "quantity": 31,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-32-s-2",
+          "price": 404,
+          "quantity": 21,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-32-s-3",
+          "price": 355,
+          "quantity": 41,
+          "date": "2025-05-24"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-33",
+      "symbol": "BETA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-11",
+      "buy": [
+        {
+          "leg_id": "leg-33-b-0",
+          "price": 430,
+          "quantity": 22,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-33-b-1",
+          "price": 133,
+          "quantity": 32,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-33-b-2",
+          "price": 114,
+          "quantity": 49,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-33-b-3",
+          "price": 336,
+          "quantity": 40,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-33-s-0",
+          "price": 339,
+          "quantity": 24,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-33-s-1",
+          "price": 97,
+          "quantity": 24,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-33-s-2",
+          "price": 337,
+          "quantity": 8,
+          "date": "2025-05-19"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-34",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-8",
+      "buy": [
+        {
+          "leg_id": "leg-34-b-0",
+          "price": 490,
+          "quantity": 32,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-34-b-1",
+          "price": 126,
+          "quantity": 50,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-34-b-2",
+          "price": 97,
+          "quantity": 42,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-34-b-3",
+          "price": 48,
+          "quantity": 40,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-34-b-4",
+          "price": 111,
+          "quantity": 15,
+          "date": "2025-05-24"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-34-s-0",
+          "price": 431,
+          "quantity": 21,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-34-s-1",
+          "price": 155,
+          "quantity": 36,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-34-s-2",
+          "price": 54,
+          "quantity": 26,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-34-s-3",
+          "price": 47,
+          "quantity": 42,
+          "date": "2025-05-17"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-35",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-22",
+      "buy": [
+        {
+          "leg_id": "leg-35-b-0",
+          "price": 386,
+          "quantity": 43,
+          "date": "2025-05-8"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-36",
+      "symbol": "MSFT",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-28",
+      "buy": [
+        {
+          "leg_id": "leg-36-b-0",
+          "price": 104,
+          "quantity": 33,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-36-b-1",
+          "price": 28,
+          "quantity": 38,
+          "date": "2025-05-3"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-37",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-37-b-0",
+          "price": 267,
+          "quantity": 23,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-37-b-1",
+          "price": 58,
+          "quantity": 39,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-37-b-2",
+          "price": 223,
+          "quantity": 36,
+          "date": "2025-05-13"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-37-s-0",
+          "price": 447,
+          "quantity": 27,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-37-s-1",
+          "price": 43,
+          "quantity": 38,
+          "date": "2025-05-5"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-38",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-2",
+      "buy": [
+        {
+          "leg_id": "leg-38-b-0",
+          "price": 301,
+          "quantity": 32,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-38-b-1",
+          "price": 415,
+          "quantity": 49,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-38-b-2",
+          "price": 99,
+          "quantity": 5,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-38-b-3",
+          "price": 156,
+          "quantity": 8,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-38-b-4",
+          "price": 435,
+          "quantity": 46,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-39",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-24",
+      "buy": [
+        {
+          "leg_id": "leg-39-b-0",
+          "price": 407,
+          "quantity": 48,
+          "date": "2025-05-2"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-39-s-0",
+          "price": 420,
+          "quantity": 18,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-39-s-1",
+          "price": 276,
+          "quantity": 46,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-39-s-2",
+          "price": 271,
+          "quantity": 28,
+          "date": "2025-05-8"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-40",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-5",
+      "buy": [
+        {
+          "leg_id": "leg-40-b-0",
+          "price": 156,
+          "quantity": 43,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-40-b-1",
+          "price": 361,
+          "quantity": 23,
+          "date": "2025-05-1"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-41",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-12",
+      "buy": [
+        {
+          "leg_id": "leg-41-b-0",
+          "price": 132,
+          "quantity": 44,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-41-b-1",
+          "price": 332,
+          "quantity": 15,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-41-b-2",
+          "price": 348,
+          "quantity": 37,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-41-b-3",
+          "price": 266,
+          "quantity": 26,
+          "date": "2025-05-16"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-41-s-0",
+          "price": 165,
+          "quantity": 24,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-41-s-1",
+          "price": 101,
+          "quantity": 2,
+          "date": "2025-05-11"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-42",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-8",
+      "buy": [
+        {
+          "leg_id": "leg-42-b-0",
+          "price": 389,
+          "quantity": 36,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-42-b-1",
+          "price": 200,
+          "quantity": 44,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-42-b-2",
+          "price": 108,
+          "quantity": 17,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-42-s-0",
+          "price": 106,
+          "quantity": 11,
+          "date": "2025-05-22"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-43",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-23",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-43-s-0",
+          "price": 45,
+          "quantity": 9,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-43-s-1",
+          "price": 484,
+          "quantity": 16,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-43-s-2",
+          "price": 210,
+          "quantity": 47,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-43-s-3",
+          "price": 486,
+          "quantity": 10,
+          "date": "2025-05-26"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-44",
+      "symbol": "AAA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-11",
+      "buy": [
+        {
+          "leg_id": "leg-44-b-0",
+          "price": 20,
+          "quantity": 6,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-44-b-1",
+          "price": 75,
+          "quantity": 20,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-44-b-2",
+          "price": 134,
+          "quantity": 3,
+          "date": "2025-05-20"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-44-s-0",
+          "price": 103,
+          "quantity": 3,
+          "date": "2025-05-4"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-45",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-16",
+      "buy": [
+        {
+          "leg_id": "leg-45-b-0",
+          "price": 58,
+          "quantity": 1,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-45-b-1",
+          "price": 244,
+          "quantity": 14,
+          "date": "2025-05-22"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-45-s-0",
+          "price": 211,
+          "quantity": 44,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-45-s-1",
+          "price": 62,
+          "quantity": 42,
+          "date": "2025-05-19"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-46",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-22",
+      "buy": [
+        {
+          "leg_id": "leg-46-b-0",
+          "price": 311,
+          "quantity": 17,
+          "date": "2025-05-4"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-46-s-0",
+          "price": 438,
+          "quantity": 26,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-46-s-1",
+          "price": 75,
+          "quantity": 32,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-46-s-2",
+          "price": 238,
+          "quantity": 27,
+          "date": "2025-05-23"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-47",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-19",
+      "buy": [
+        {
+          "leg_id": "leg-47-b-0",
+          "price": 60,
+          "quantity": 6,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-47-b-1",
+          "price": 271,
+          "quantity": 37,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-47-b-2",
+          "price": 384,
+          "quantity": 25,
+          "date": "2025-05-9"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-47-s-0",
+          "price": 399,
+          "quantity": 11,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-47-s-1",
+          "price": 130,
+          "quantity": 5,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-47-s-2",
+          "price": 316,
+          "quantity": 47,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-47-s-3",
+          "price": 114,
+          "quantity": 2,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-47-s-4",
+          "price": 429,
+          "quantity": 17,
+          "date": "2025-05-9"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-48",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-25",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-48-s-0",
+          "price": 258,
+          "quantity": 50,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-48-s-1",
+          "price": 341,
+          "quantity": 30,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-48-s-2",
+          "price": 425,
+          "quantity": 5,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-48-s-3",
+          "price": 233,
+          "quantity": 6,
+          "date": "2025-05-1"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-49",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [
+        {
+          "leg_id": "leg-49-b-0",
+          "price": 453,
+          "quantity": 23,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-49-b-1",
+          "price": 433,
+          "quantity": 30,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-49-b-2",
+          "price": 188,
+          "quantity": 15,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-49-b-3",
+          "price": 452,
+          "quantity": 21,
+          "date": "2025-05-18"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-49-s-0",
+          "price": 469,
+          "quantity": 6,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-49-s-1",
+          "price": 359,
+          "quantity": 26,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-49-s-2",
+          "price": 357,
+          "quantity": 47,
+          "date": "2025-05-6"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-50",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-16",
+      "buy": [
+        {
+          "leg_id": "leg-50-b-0",
+          "price": 330,
+          "quantity": 38,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-50-b-1",
+          "price": 408,
+          "quantity": 23,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-50-b-2",
+          "price": 499,
+          "quantity": 42,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-50-s-0",
+          "price": 191,
+          "quantity": 40,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-50-s-1",
+          "price": 341,
+          "quantity": 9,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-50-s-2",
+          "price": 468,
+          "quantity": 10,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-50-s-3",
+          "price": 127,
+          "quantity": 17,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-50-s-4",
+          "price": 205,
+          "quantity": 39,
+          "date": "2025-05-24"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-51",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-7",
+      "buy": [
+        {
+          "leg_id": "leg-51-b-0",
+          "price": 34,
+          "quantity": 8,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-51-b-1",
+          "price": 135,
+          "quantity": 22,
+          "date": "2025-05-9"
+        },
+        {
+          "leg_id": "leg-51-b-2",
+          "price": 385,
+          "quantity": 16,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-51-b-3",
+          "price": 456,
+          "quantity": 36,
+          "date": "2025-05-25"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-51-s-0",
+          "price": 178,
+          "quantity": 25,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-51-s-1",
+          "price": 199,
+          "quantity": 44,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-51-s-2",
+          "price": 264,
+          "quantity": 7,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-51-s-3",
+          "price": 230,
+          "quantity": 36,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-51-s-4",
+          "price": 398,
+          "quantity": 31,
+          "date": "2025-05-14"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-52",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-16",
+      "buy": [
+        {
+          "leg_id": "leg-52-b-0",
+          "price": 489,
+          "quantity": 27,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-52-b-1",
+          "price": 161,
+          "quantity": 3,
+          "date": "2025-05-13"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-52-s-0",
+          "price": 413,
+          "quantity": 15,
+          "date": "2025-05-28"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-53",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-23",
+      "buy": [
+        {
+          "leg_id": "leg-53-b-0",
+          "price": 371,
+          "quantity": 12,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-53-b-1",
+          "price": 237,
+          "quantity": 3,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-53-b-2",
+          "price": 396,
+          "quantity": 3,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-53-b-3",
+          "price": 57,
+          "quantity": 19,
+          "date": "2025-05-22"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-53-s-0",
+          "price": 57,
+          "quantity": 16,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-53-s-1",
+          "price": 193,
+          "quantity": 17,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-53-s-2",
+          "price": 159,
+          "quantity": 18,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-53-s-3",
+          "price": 385,
+          "quantity": 18,
+          "date": "2025-05-15"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-54",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-19",
+      "buy": [
+        {
+          "leg_id": "leg-54-b-0",
+          "price": 280,
+          "quantity": 19,
+          "date": "2025-05-22"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-54-s-0",
+          "price": 360,
+          "quantity": 45,
+          "date": "2025-05-9"
+        },
+        {
+          "leg_id": "leg-54-s-1",
+          "price": 106,
+          "quantity": 1,
+          "date": "2025-05-10"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-55",
+      "symbol": "TSLA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-21",
+      "buy": [
+        {
+          "leg_id": "leg-55-b-0",
+          "price": 266,
+          "quantity": 17,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-55-b-1",
+          "price": 272,
+          "quantity": 17,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-55-b-2",
+          "price": 110,
+          "quantity": 28,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-55-b-3",
+          "price": 315,
+          "quantity": 8,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-55-b-4",
+          "price": 106,
+          "quantity": 18,
+          "date": "2025-05-4"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-55-s-0",
+          "price": 427,
+          "quantity": 4,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-55-s-1",
+          "price": 29,
+          "quantity": 48,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-55-s-2",
+          "price": 163,
+          "quantity": 38,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-55-s-3",
+          "price": 92,
+          "quantity": 50,
+          "date": "2025-05-16"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-56",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-4",
+      "buy": [],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-57",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-28",
+      "buy": [
+        {
+          "leg_id": "leg-57-b-0",
+          "price": 198,
+          "quantity": 22,
+          "date": "2025-05-3"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-57-s-0",
+          "price": 398,
+          "quantity": 6,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-57-s-1",
+          "price": 219,
+          "quantity": 46,
+          "date": "2025-05-12"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-58",
+      "symbol": "TSLA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-23",
+      "buy": [
+        {
+          "leg_id": "leg-58-b-0",
+          "price": 311,
+          "quantity": 3,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-58-b-1",
+          "price": 183,
+          "quantity": 28,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-58-b-2",
+          "price": 229,
+          "quantity": 12,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-58-b-3",
+          "price": 466,
+          "quantity": 18,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-58-b-4",
+          "price": 481,
+          "quantity": 37,
+          "date": "2025-05-24"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-58-s-0",
+          "price": 213,
+          "quantity": 30,
+          "date": "2025-05-10"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-59",
+      "symbol": "MSFT",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-20",
+      "buy": [
+        {
+          "leg_id": "leg-59-b-0",
+          "price": 148,
+          "quantity": 36,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-59-b-1",
+          "price": 177,
+          "quantity": 10,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-59-b-2",
+          "price": 118,
+          "quantity": 18,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-59-b-3",
+          "price": 412,
+          "quantity": 33,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-59-b-4",
+          "price": 62,
+          "quantity": 10,
+          "date": "2025-05-28"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-59-s-0",
+          "price": 448,
+          "quantity": 25,
+          "date": "2025-05-24"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-60",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-9",
+      "buy": [
+        {
+          "leg_id": "leg-60-b-0",
+          "price": 292,
+          "quantity": 21,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-60-b-1",
+          "price": 437,
+          "quantity": 9,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-60-b-2",
+          "price": 217,
+          "quantity": 10,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-60-b-3",
+          "price": 323,
+          "quantity": 24,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-60-b-4",
+          "price": 452,
+          "quantity": 23,
+          "date": "2025-05-18"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-60-s-0",
+          "price": 269,
+          "quantity": 47,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-60-s-1",
+          "price": 493,
+          "quantity": 32,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-60-s-2",
+          "price": 167,
+          "quantity": 29,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-60-s-3",
+          "price": 69,
+          "quantity": 44,
+          "date": "2025-05-12"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-61",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-15",
+      "buy": [
+        {
+          "leg_id": "leg-61-b-0",
+          "price": 157,
+          "quantity": 24,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-61-b-1",
+          "price": 125,
+          "quantity": 3,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-61-b-2",
+          "price": 40,
+          "quantity": 25,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-61-b-3",
+          "price": 497,
+          "quantity": 13,
+          "date": "2025-05-18"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-62",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-20",
+      "buy": [
+        {
+          "leg_id": "leg-62-b-0",
+          "price": 245,
+          "quantity": 28,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-62-b-1",
+          "price": 77,
+          "quantity": 37,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-62-b-2",
+          "price": 180,
+          "quantity": 14,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-62-b-3",
+          "price": 499,
+          "quantity": 38,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-62-b-4",
+          "price": 218,
+          "quantity": 10,
+          "date": "2025-05-22"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-62-s-0",
+          "price": 163,
+          "quantity": 30,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-62-s-1",
+          "price": 95,
+          "quantity": 33,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-62-s-2",
+          "price": 80,
+          "quantity": 4,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-62-s-3",
+          "price": 243,
+          "quantity": 17,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-62-s-4",
+          "price": 292,
+          "quantity": 6,
+          "date": "2025-05-25"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-63",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [
+        {
+          "leg_id": "leg-63-b-0",
+          "price": 94,
+          "quantity": 3,
+          "date": "2025-05-11"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-63-s-0",
+          "price": 21,
+          "quantity": 29,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-63-s-1",
+          "price": 133,
+          "quantity": 22,
+          "date": "2025-05-4"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-64",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-19",
+      "buy": [
+        {
+          "leg_id": "leg-64-b-0",
+          "price": 453,
+          "quantity": 9,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-64-b-1",
+          "price": 373,
+          "quantity": 30,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-64-b-2",
+          "price": 178,
+          "quantity": 41,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-64-b-3",
+          "price": 272,
+          "quantity": 39,
+          "date": "2025-05-21"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-64-s-0",
+          "price": 253,
+          "quantity": 43,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-64-s-1",
+          "price": 485,
+          "quantity": 36,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-64-s-2",
+          "price": 27,
+          "quantity": 7,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-64-s-3",
+          "price": 172,
+          "quantity": 13,
+          "date": "2025-05-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-65",
+      "symbol": "TSLA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-9",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-65-s-0",
+          "price": 109,
+          "quantity": 49,
+          "date": "2025-05-28"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-66",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-4",
+      "buy": [
+        {
+          "leg_id": "leg-66-b-0",
+          "price": 159,
+          "quantity": 27,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-66-b-1",
+          "price": 147,
+          "quantity": 47,
+          "date": "2025-05-27"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-66-s-0",
+          "price": 271,
+          "quantity": 10,
+          "date": "2025-05-28"
+        },
+        {
+          "leg_id": "leg-66-s-1",
+          "price": 382,
+          "quantity": 46,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-66-s-2",
+          "price": 495,
+          "quantity": 32,
+          "date": "2025-05-4"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-67",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-13",
+      "buy": [
+        {
+          "leg_id": "leg-67-b-0",
+          "price": 400,
+          "quantity": 46,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-67-b-1",
+          "price": 431,
+          "quantity": 43,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-67-b-2",
+          "price": 412,
+          "quantity": 27,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-67-b-3",
+          "price": 322,
+          "quantity": 47,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-67-b-4",
+          "price": 272,
+          "quantity": 22,
+          "date": "2025-05-18"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-67-s-0",
+          "price": 353,
+          "quantity": 17,
+          "date": "2025-05-28"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-68",
+      "symbol": "BETA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-15",
+      "buy": [
+        {
+          "leg_id": "leg-68-b-0",
+          "price": 104,
+          "quantity": 11,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-68-s-0",
+          "price": 489,
+          "quantity": 17,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-68-s-1",
+          "price": 242,
+          "quantity": 46,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-68-s-2",
+          "price": 267,
+          "quantity": 34,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-68-s-3",
+          "price": 60,
+          "quantity": 43,
+          "date": "2025-05-18"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-69",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-2",
+      "buy": [
+        {
+          "leg_id": "leg-69-b-0",
+          "price": 457,
+          "quantity": 5,
+          "date": "2025-05-6"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-69-s-0",
+          "price": 35,
+          "quantity": 43,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-69-s-1",
+          "price": 253,
+          "quantity": 21,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-69-s-2",
+          "price": 38,
+          "quantity": 29,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-69-s-3",
+          "price": 126,
+          "quantity": 22,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-69-s-4",
+          "price": 316,
+          "quantity": 35,
+          "date": "2025-05-2"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-70",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-70-b-0",
+          "price": 224,
+          "quantity": 9,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-70-b-1",
+          "price": 289,
+          "quantity": 22,
+          "date": "2025-05-10"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-70-s-0",
+          "price": 101,
+          "quantity": 29,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-70-s-1",
+          "price": 452,
+          "quantity": 29,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-70-s-2",
+          "price": 417,
+          "quantity": 10,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-70-s-3",
+          "price": 101,
+          "quantity": 3,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-70-s-4",
+          "price": 405,
+          "quantity": 40,
+          "date": "2025-05-2"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-71",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [
+        {
+          "leg_id": "leg-71-b-0",
+          "price": 284,
+          "quantity": 4,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-71-b-1",
+          "price": 396,
+          "quantity": 12,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-71-b-2",
+          "price": 110,
+          "quantity": 8,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-72",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-14",
+      "buy": [
+        {
+          "leg_id": "leg-72-b-0",
+          "price": 124,
+          "quantity": 13,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-72-b-1",
+          "price": 198,
+          "quantity": 20,
+          "date": "2025-05-6"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-72-s-0",
+          "price": 296,
+          "quantity": 11,
+          "date": "2025-05-1"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-73",
+      "symbol": "MSFT",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-73-b-0",
+          "price": 343,
+          "quantity": 38,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-73-b-1",
+          "price": 50,
+          "quantity": 7,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-73-b-2",
+          "price": 384,
+          "quantity": 2,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-73-b-3",
+          "price": 471,
+          "quantity": 14,
+          "date": "2025-05-23"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-73-s-0",
+          "price": 165,
+          "quantity": 31,
+          "date": "2025-05-8"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-74",
+      "symbol": "AAA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-6",
+      "buy": [
+        {
+          "leg_id": "leg-74-b-0",
+          "price": 47,
+          "quantity": 1,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-74-b-1",
+          "price": 477,
+          "quantity": 40,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-74-b-2",
+          "price": 185,
+          "quantity": 25,
+          "date": "2025-05-13"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-74-s-0",
+          "price": 444,
+          "quantity": 3,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-74-s-1",
+          "price": 264,
+          "quantity": 49,
+          "date": "2025-05-14"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-75",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-22",
+      "buy": [
+        {
+          "leg_id": "leg-75-b-0",
+          "price": 282,
+          "quantity": 3,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-75-b-1",
+          "price": 99,
+          "quantity": 43,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-75-b-2",
+          "price": 418,
+          "quantity": 14,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-75-b-3",
+          "price": 346,
+          "quantity": 47,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-75-b-4",
+          "price": 419,
+          "quantity": 32,
+          "date": "2025-05-15"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-75-s-0",
+          "price": 172,
+          "quantity": 17,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-75-s-1",
+          "price": 223,
+          "quantity": 25,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-75-s-2",
+          "price": 282,
+          "quantity": 20,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-75-s-3",
+          "price": 116,
+          "quantity": 50,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-75-s-4",
+          "price": 22,
+          "quantity": 38,
+          "date": "2025-05-27"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-76",
+      "symbol": "NVDA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-7",
+      "buy": [
+        {
+          "leg_id": "leg-76-b-0",
+          "price": 226,
+          "quantity": 24,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-76-b-1",
+          "price": 113,
+          "quantity": 29,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-76-b-2",
+          "price": 50,
+          "quantity": 2,
+          "date": "2025-05-19"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-76-s-0",
+          "price": 22,
+          "quantity": 20,
+          "date": "2025-05-23"
+        },
+        {
+          "leg_id": "leg-76-s-1",
+          "price": 135,
+          "quantity": 10,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-76-s-2",
+          "price": 77,
+          "quantity": 38,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-76-s-3",
+          "price": 201,
+          "quantity": 38,
+          "date": "2025-05-1"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-77",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-25",
+      "buy": [
+        {
+          "leg_id": "leg-77-b-0",
+          "price": 476,
+          "quantity": 42,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-77-b-1",
+          "price": 319,
+          "quantity": 16,
+          "date": "2025-05-1"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-78",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [
+        {
+          "leg_id": "leg-78-b-0",
+          "price": 331,
+          "quantity": 46,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-78-b-1",
+          "price": 449,
+          "quantity": 33,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-78-b-2",
+          "price": 374,
+          "quantity": 7,
+          "date": "2025-05-19"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-78-s-0",
+          "price": 363,
+          "quantity": 1,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-78-s-1",
+          "price": 269,
+          "quantity": 34,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-78-s-2",
+          "price": 435,
+          "quantity": 19,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-78-s-3",
+          "price": 383,
+          "quantity": 16,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-78-s-4",
+          "price": 317,
+          "quantity": 6,
+          "date": "2025-05-16"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-79",
+      "symbol": "AAA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-16",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-79-s-0",
+          "price": 374,
+          "quantity": 26,
+          "date": "2025-05-12"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-80",
+      "symbol": "TSLA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-4",
+      "buy": [
+        {
+          "leg_id": "leg-80-b-0",
+          "price": 409,
+          "quantity": 32,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-80-b-1",
+          "price": 335,
+          "quantity": 16,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-80-b-2",
+          "price": 146,
+          "quantity": 40,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-80-b-3",
+          "price": 332,
+          "quantity": 34,
+          "date": "2025-05-18"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-80-s-0",
+          "price": 112,
+          "quantity": 23,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-80-s-1",
+          "price": 183,
+          "quantity": 34,
+          "date": "2025-05-21"
+        },
+        {
+          "leg_id": "leg-80-s-2",
+          "price": 128,
+          "quantity": 48,
+          "date": "2025-05-27"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-81",
+      "symbol": "AAA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-81-b-0",
+          "price": 322,
+          "quantity": 22,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-81-b-1",
+          "price": 68,
+          "quantity": 23,
+          "date": "2025-05-10"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-81-s-0",
+          "price": 296,
+          "quantity": 9,
+          "date": "2025-05-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-82",
+      "symbol": "META",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-3",
+      "buy": [
+        {
+          "leg_id": "leg-82-b-0",
+          "price": 490,
+          "quantity": 9,
+          "date": "2025-05-16"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-82-s-0",
+          "price": 411,
+          "quantity": 30,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-82-s-1",
+          "price": 436,
+          "quantity": 29,
+          "date": "2025-05-4"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-83",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-19",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-83-s-0",
+          "price": 312,
+          "quantity": 29,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-83-s-1",
+          "price": 175,
+          "quantity": 20,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-83-s-2",
+          "price": 243,
+          "quantity": 1,
+          "date": "2025-05-28"
+        },
+        {
+          "leg_id": "leg-83-s-3",
+          "price": 144,
+          "quantity": 18,
+          "date": "2025-05-13"
+        },
+        {
+          "leg_id": "leg-83-s-4",
+          "price": 400,
+          "quantity": 42,
+          "date": "2025-05-6"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-84",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-17",
+      "buy": [
+        {
+          "leg_id": "leg-84-b-0",
+          "price": 351,
+          "quantity": 50,
+          "date": "2025-05-9"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-85",
+      "symbol": "AAA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-6",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-85-s-0",
+          "price": 378,
+          "quantity": 22,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-85-s-1",
+          "price": 304,
+          "quantity": 25,
+          "date": "2025-05-28"
+        },
+        {
+          "leg_id": "leg-85-s-2",
+          "price": 210,
+          "quantity": 10,
+          "date": "2025-05-7"
+        },
+        {
+          "leg_id": "leg-85-s-3",
+          "price": 147,
+          "quantity": 48,
+          "date": "2025-05-5"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-86",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-21",
+      "buy": [
+        {
+          "leg_id": "leg-86-b-0",
+          "price": 239,
+          "quantity": 15,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-86-b-1",
+          "price": 219,
+          "quantity": 29,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-86-b-2",
+          "price": 89,
+          "quantity": 27,
+          "date": "2025-05-17"
+        }
+      ],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-87",
+      "symbol": "MSFT",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-8",
+      "buy": [
+        {
+          "leg_id": "leg-87-b-0",
+          "price": 359,
+          "quantity": 49,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-87-b-1",
+          "price": 214,
+          "quantity": 10,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-87-b-2",
+          "price": 37,
+          "quantity": 50,
+          "date": "2025-05-2"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-87-s-0",
+          "price": 249,
+          "quantity": 31,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-87-s-1",
+          "price": 314,
+          "quantity": 13,
+          "date": "2025-05-12"
+        },
+        {
+          "leg_id": "leg-87-s-2",
+          "price": 328,
+          "quantity": 44,
+          "date": "2025-05-26"
+        },
+        {
+          "leg_id": "leg-87-s-3",
+          "price": 110,
+          "quantity": 3,
+          "date": "2025-05-15"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-88",
+      "symbol": "TSLA",
+      "direction": "SHORT",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-6",
+      "buy": [
+        {
+          "leg_id": "leg-88-b-0",
+          "price": 350,
+          "quantity": 4,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-88-b-1",
+          "price": 455,
+          "quantity": 31,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-88-b-2",
+          "price": 191,
+          "quantity": 39,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-88-b-3",
+          "price": 105,
+          "quantity": 43,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-88-b-4",
+          "price": 35,
+          "quantity": 44,
+          "date": "2025-05-22"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-88-s-0",
+          "price": 324,
+          "quantity": 41,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-88-s-1",
+          "price": 396,
+          "quantity": 26,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-88-s-2",
+          "price": 17,
+          "quantity": 41,
+          "date": "2025-05-8"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-89",
+      "symbol": "ALPHA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-2",
+      "buy": [
+        {
+          "leg_id": "leg-89-b-0",
+          "price": 424,
+          "quantity": 16,
+          "date": "2025-05-24"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-89-s-0",
+          "price": 243,
+          "quantity": 1,
+          "date": "2025-05-22"
+        },
+        {
+          "leg_id": "leg-89-s-1",
+          "price": 61,
+          "quantity": 33,
+          "date": "2025-05-11"
+        },
+        {
+          "leg_id": "leg-89-s-2",
+          "price": 359,
+          "quantity": 28,
+          "date": "2025-05-3"
+        },
+        {
+          "leg_id": "leg-89-s-3",
+          "price": 340,
+          "quantity": 13,
+          "date": "2025-05-19"
+        },
+        {
+          "leg_id": "leg-89-s-4",
+          "price": 66,
+          "quantity": 20,
+          "date": "2025-05-5"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-90",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-23",
+      "buy": [
+        {
+          "leg_id": "leg-90-b-0",
+          "price": 446,
+          "quantity": 1,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-90-b-1",
+          "price": 209,
+          "quantity": 43,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-90-b-2",
+          "price": 485,
+          "quantity": 39,
+          "date": "2025-05-6"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-90-s-0",
+          "price": 342,
+          "quantity": 28,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-90-s-1",
+          "price": 153,
+          "quantity": 16,
+          "date": "2025-05-1"
+        },
+        {
+          "leg_id": "leg-90-s-2",
+          "price": 375,
+          "quantity": 12,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-90-s-3",
+          "price": 35,
+          "quantity": 36,
+          "date": "2025-05-5"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-91",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-7",
+      "buy": [
+        {
+          "leg_id": "leg-91-b-0",
+          "price": 482,
+          "quantity": 28,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-91-b-1",
+          "price": 110,
+          "quantity": 35,
+          "date": "2025-05-24"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-91-s-0",
+          "price": 357,
+          "quantity": 23,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-91-s-1",
+          "price": 239,
+          "quantity": 28,
+          "date": "2025-05-20"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-92",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-5",
+      "buy": [
+        {
+          "leg_id": "leg-92-b-0",
+          "price": 225,
+          "quantity": 17,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-92-b-1",
+          "price": 367,
+          "quantity": 42,
+          "date": "2025-05-2"
+        },
+        {
+          "leg_id": "leg-92-b-2",
+          "price": 456,
+          "quantity": 2,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-92-b-3",
+          "price": 379,
+          "quantity": 37,
+          "date": "2025-05-15"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-92-s-0",
+          "price": 424,
+          "quantity": 24,
+          "date": "2025-05-12"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-93",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-18",
+      "buy": [
+        {
+          "leg_id": "leg-93-b-0",
+          "price": 20,
+          "quantity": 42,
+          "date": "2025-05-4"
+        },
+        {
+          "leg_id": "leg-93-b-1",
+          "price": 43,
+          "quantity": 36,
+          "date": "2025-05-28"
+        },
+        {
+          "leg_id": "leg-93-b-2",
+          "price": 383,
+          "quantity": 1,
+          "date": "2025-05-16"
+        },
+        {
+          "leg_id": "leg-93-b-3",
+          "price": 287,
+          "quantity": 4,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-93-b-4",
+          "price": 443,
+          "quantity": 38,
+          "date": "2025-05-21"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-93-s-0",
+          "price": 24,
+          "quantity": 32,
+          "date": "2025-05-18"
+        },
+        {
+          "leg_id": "leg-93-s-1",
+          "price": 453,
+          "quantity": 7,
+          "date": "2025-05-23"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-94",
+      "symbol": "NVDA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-9",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-94-s-0",
+          "price": 55,
+          "quantity": 5,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-94-s-1",
+          "price": 269,
+          "quantity": 3,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-94-s-2",
+          "price": 253,
+          "quantity": 15,
+          "date": "2025-05-16"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-95",
+      "symbol": "BETA",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-6",
+      "buy": [],
+      "sell": [],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-96",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "CLOSED",
+      "setup": null,
+      "opened_at": "2025-05-27",
+      "buy": [
+        {
+          "leg_id": "leg-96-b-0",
+          "price": 462,
+          "quantity": 12,
+          "date": "2025-05-3"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-96-s-0",
+          "price": 490,
+          "quantity": 29,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-96-s-1",
+          "price": 366,
+          "quantity": 41,
+          "date": "2025-05-6"
+        },
+        {
+          "leg_id": "leg-96-s-2",
+          "price": 402,
+          "quantity": 11,
+          "date": "2025-05-24"
+        },
+        {
+          "leg_id": "leg-96-s-3",
+          "price": 383,
+          "quantity": 23,
+          "date": "2025-05-4"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-97",
+      "symbol": "META",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-20",
+      "buy": [
+        {
+          "leg_id": "leg-97-b-0",
+          "price": 69,
+          "quantity": 49,
+          "date": "2025-05-26"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-97-s-0",
+          "price": 140,
+          "quantity": 44,
+          "date": "2025-05-14"
+        },
+        {
+          "leg_id": "leg-97-s-1",
+          "price": 412,
+          "quantity": 36,
+          "date": "2025-05-19"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-98",
+      "symbol": "AAA",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-26",
+      "buy": [
+        {
+          "leg_id": "leg-98-b-0",
+          "price": 112,
+          "quantity": 47,
+          "date": "2025-05-10"
+        },
+        {
+          "leg_id": "leg-98-b-1",
+          "price": 386,
+          "quantity": 45,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-98-b-2",
+          "price": 467,
+          "quantity": 48,
+          "date": "2025-05-13"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-98-s-0",
+          "price": 160,
+          "quantity": 48,
+          "date": "2025-05-27"
+        },
+        {
+          "leg_id": "leg-98-s-1",
+          "price": 110,
+          "quantity": 2,
+          "date": "2025-05-2"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-99",
+      "symbol": "BETA",
+      "direction": "SHORT",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-7",
+      "buy": [
+        {
+          "leg_id": "leg-99-b-0",
+          "price": 166,
+          "quantity": 42,
+          "date": "2025-05-20"
+        },
+        {
+          "leg_id": "leg-99-b-1",
+          "price": 284,
+          "quantity": 2,
+          "date": "2025-05-8"
+        },
+        {
+          "leg_id": "leg-99-b-2",
+          "price": 287,
+          "quantity": 32,
+          "date": "2025-05-17"
+        },
+        {
+          "leg_id": "leg-99-b-3",
+          "price": 127,
+          "quantity": 49,
+          "date": "2025-05-28"
+        }
+      ],
+      "sell": [
+        {
+          "leg_id": "leg-99-s-0",
+          "price": 475,
+          "quantity": 16,
+          "date": "2025-05-15"
+        },
+        {
+          "leg_id": "leg-99-s-1",
+          "price": 260,
+          "quantity": 50,
+          "date": "2025-05-5"
+        },
+        {
+          "leg_id": "leg-99-s-2",
+          "price": 434,
+          "quantity": 7,
+          "date": "2025-05-24"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "trade_id": "trade-100",
+      "symbol": "MSFT",
+      "direction": "LONG",
+      "status": "OPEN",
+      "setup": null,
+      "opened_at": "2025-05-12",
+      "buy": [],
+      "sell": [
+        {
+          "leg_id": "leg-100-s-0",
+          "price": 500,
+          "quantity": 15,
+          "date": "2025-05-9"
+        },
+        {
+          "leg_id": "leg-100-s-1",
+          "price": 144,
+          "quantity": 18,
+          "date": "2025-05-25"
+        },
+        {
+          "leg_id": "leg-100-s-2",
+          "price": 161,
+          "quantity": 26,
+          "date": "2025-05-28"
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}
